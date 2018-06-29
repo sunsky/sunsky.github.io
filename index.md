@@ -1,14 +1,4 @@
-# 前言
+# This is sunsky's blog
+## please visit： [Here](https://www.cnblogs.com/sunsky303)
 
-使用github pages服务搭建博客的好处有：
-
-1. 全是静态文件，访问速度快；
-2. 免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台；
-3. 可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的；
-
-<!--more-->
-
-4. 数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行；
-5. 博客内容可以轻松打包、转移、发布到其它平台；
-6. 等等；
-
+### ![photo](http://ww1.sinaimg.cn/large/7c998145ly1fsrs4liuv6j20ie0icqk5.jpg)
